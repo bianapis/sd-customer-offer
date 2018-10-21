@@ -1,0 +1,7 @@
+{
+  "customerOfferCreditTaskReference" : "COCTR78563",
+  "creditAuthorizationDecisionReference" : "CADR45686",
+  "customerOfferReference" : "COR78569",
+  "customerCreditRating" : "score 120",
+  "creditAuthorizationDecision" : "approved/rejected"
+}

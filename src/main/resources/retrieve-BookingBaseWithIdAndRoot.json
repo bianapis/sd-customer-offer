@@ -1,0 +1,12 @@
+{
+  "productInstanceReference" : "PIR232342",
+  "assetLiabilityType" : "Prepaid expenses",
+  "amount" : {
+    "amount" : "100",
+    "currency" : "USD"
+  },
+  "customerReference" : "CR232342",
+  "customerOfferReference" : "COR232342",
+  "customerOfferBookingTaskReference" : "COBTR232342",
+  "businessUnitReference" : "BUR232342"
+}

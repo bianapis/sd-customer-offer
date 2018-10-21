@@ -1,0 +1,8 @@
+{
+  "pricingAdjustments" : "Credit score based",
+  "agreedPricing" : "interest based",
+  "productPricing" : "productPricing",
+  "customerOfferReference" : "COR78563",
+  "customerOfferPricingTaskReference" : "COPTR78456",
+  "negotiationGuidelinesRules" : "rule1, rule2"
+}

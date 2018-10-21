@@ -1,0 +1,8 @@
+{
+  "customerOfferCollateralTaskReference" : "COCTR232342",
+  "collateralEarmarkReference" : "CER432342",
+  "collateralAssetReference" : "CAR232342",
+  "collateralAllocationReference" : "CAR432342",
+  "customerOfferReference" : "COR232342",
+  "collateralRequirement" : "615.5050 Collateral requirements. Ref https://www.law.cornell.edu/cfr/text/12/615.5050"
+}

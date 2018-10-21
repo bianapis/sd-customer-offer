@@ -1,0 +1,9 @@
+{
+  "regulatoryComplianceCheckRequirement" : "debt statement",
+  "regulatoryComplianceAdjustmentRequirement" : "credit score",
+  "customerOfferComplianceTaskReference" : "COCTR48563",
+  "customerOfferReference" : "COR785233",
+  "regulatoryComplianceCheckType" : "Ability to repay",
+  "regulatoryComplianceCheckAssessment" : "pass",
+  "regulatoryComplianceCheckSubmission" : "electronic"
+}
